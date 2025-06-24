@@ -87,6 +87,11 @@ Each metric was designed to update dynamically based on filters, allowing users 
 A star schema was designed to improve report performance and flexibility. Key relationships were built between calendar(look up table), and cleaned dataset(fact table) to allow time intelligence and spatial filtering. Field Parameter and Measure tables were created as will to uncover more insights and allow toggling field features for viewers. Data Dictionary can also be accessed within the report, through specific measures seen in the screenshot as well 
 ![image](https://github.com/user-attachments/assets/a9a77447-472d-4097-9aeb-b5c006ecd4f1)
 
+**Challenges Faced**
+Throughout development, I encountered several challenges *seen through screenshot*. Despite these hurdles, the final result balances technical depth with intuitive, user-friendly design
+![image](https://github.com/user-attachments/assets/94759a0d-7ad1-4410-ab2a-b6da44effd06)
+
+
 
 
 
