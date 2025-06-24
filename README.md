@@ -1,4 +1,4 @@
-**Connecticut Real Estate Market Analysis (2012–2022)**
+## Connecticut Real Estate Market Analysis (2012–2022)
 
 ## 1.Project Overview
 This project explores Connecticut’s real estate market from 2012 to 2022 through an interactive Power BI dashboard. With over 500,000 records, the report analyzes town-level sales trends, seasonal patterns, and pricing behavior to uncover how the market responded to economic booms, busts, and structural challenges.
@@ -53,15 +53,15 @@ Connecticut’s real estate market followed a strong seasonal pattern—surging 
 
 ## 3. Recommendations & Next Steps
 After analyzing the dataset and creating the dashboard these are the following recommendations I would offer to help stakeholders, investors, and policymakers navigate changing conditions and support sustainable housing growth:
-1.Align Listings with Market Timing
+-1.Align Listings with Market Timing
 Maximize exposure during peak summer months (May–August), while also leveraging strong December momentum in towns like Stamford and Greenwich to target luxury and year-end buyers.
-2.Prioritize Resilient Markets
+-2.Prioritize Resilient Markets
 Towns like Stamford and Waterbury thrived in both boom and bust periods. Focus investment, development, and retention efforts on these adaptable markets, and use them as models for identifying future high-performing areas.
-3.Track Buyer Shifts & Affordability Pressures
+-3.Track Buyer Shifts & Affordability Pressures
 Post-2022 trends revealed more cautious and price-sensitive buyer behavior. Monitor affordability constraints, especially in towns with stagnating sales, and support access through programs like down payment assistance, zoning reform, and smart-density initiatives.
-4.Address Inventory Shortages Through Policy Innovation
+-4.Address Inventory Shortages Through Policy Innovation
 Encourage supply growth through targeted zoning adjustments and public-private partnerships particularly for first-time buyers and the middle-market segment to prevent long-term affordability erosion.
-5.Leverage Real-Time Monitoring for Market Agility
+-5.Leverage Real-Time Monitoring for Market Agility
 Interactive dashboards like this project can help track key metrics such as transaction velocity, seasonal shifts, and luxury market trends equipping decision-makers with timely, actionable insights during both stable and uncertain periods.
 
 ![image](https://github.com/user-attachments/assets/3db1ac70-ed54-4402-87bb-78216708b1ab)
