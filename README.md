@@ -103,8 +103,8 @@ Supporting Links Used for PowerPoint Presentation:
 This project aimed to bridge raw housing data with real-world insights, offering a clearer view into Connecticut’s evolving real estate landscape. By combining interactive visuals, historical context, and policy-aware recommendations, it equips analysts, planners, and decision-makers with the tools to navigate shifting housing dynamics.
 
 If you found this project insightful, have questions, or would like to collaborate, feel free to connect:
-**Email:** [adanwogbo@gmail.com]  
-**Linkedin Profile:** [https://www.linkedin.com/in/adaora-nwogbo-033a51131/]
+- **Email:** [adanwogbo@gmail.com]  
+- **Linkedin Profile:** [https://www.linkedin.com/in/adaora-nwogbo-033a51131/]
 
 
 
