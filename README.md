@@ -92,7 +92,13 @@ Throughout development, I encountered several challenges *seen through screensho
 ![image](https://github.com/user-attachments/assets/94759a0d-7ad1-4410-ab2a-b6da44effd06)
 
 ## 5. Dataset & External Resources
-[Real Estate Sales 2001-2022] (https://www.kaggle.com/datasets/omniamahmoudsaeed/real-estate-sales-2001-2022)
+Dataset Used: [Real Estate Sales 2001–2022 – Kaggle](https://www.kaggle.com/datasets/omniamahmoudsaeed/real-estate-sales-2001-2022) 
+
+Supporting Links Used for PowerPoint Presentation:
+- [CT Hartford Area Listings Shortage – CT Insider (2024)](https://www.ctinsider.com/business/article/ct-hartford-area-home-listings-shortage-20362611.php)
+- [Stamford Tops CT for Home Sales – CT Insider (2022)](https://www.ctinsider.com/business/article/Stamford-tops-CT-for-home-sales-after-3-seasons-17493338.php)  
+- [Connecticut Lawsuit Over SALT Deduction – CT.gov (2018)](https://portal.ct.gov/DRS/News---Press-Releases/2018/CT-Joins-Lawsuit-to-Protect-Taxpayers-on-SALT-Deduction-Cut)
+
 
 
 
