@@ -91,6 +91,8 @@ A star schema was designed to improve report performance and flexibility. Key re
 Throughout development, I encountered several challenges *seen through screenshot*. Despite these hurdles, the final result balances technical depth with intuitive, user-friendly design
 ![image](https://github.com/user-attachments/assets/94759a0d-7ad1-4410-ab2a-b6da44effd06)
 
+## 5. Dataset & External Resources
+[Real Estate Sales 2001-2022] (https://www.kaggle.com/datasets/omniamahmoudsaeed/real-estate-sales-2001-2022)
 
 
 
