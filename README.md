@@ -53,15 +53,15 @@ Connecticut’s real estate market followed a strong seasonal pattern—surging 
 
 ## 3. Recommendations & Next Steps
 After analyzing the dataset and creating the dashboard these are the following recommendations I would offer to help stakeholders, investors, and policymakers navigate changing conditions and support sustainable housing growth:
-- 1.Align Listings with Market Timing
+- Align Listings with Market Timing
 Maximize exposure during peak summer months (May–August), while also leveraging strong December momentum in towns like Stamford and Greenwich to target luxury and year-end buyers.
-- 2.Prioritize Resilient Markets
+- Prioritize Resilient Markets
 Towns like Stamford and Waterbury thrived in both boom and bust periods. Focus investment, development, and retention efforts on these adaptable markets, and use them as models for identifying future high-performing areas.
-- 3.Track Buyer Shifts & Affordability Pressures
+- Track Buyer Shifts & Affordability Pressures
 Post-2022 trends revealed more cautious and price-sensitive buyer behavior. Monitor affordability constraints, especially in towns with stagnating sales, and support access through programs like down payment assistance, zoning reform, and smart-density initiatives.
-- 4.Address Inventory Shortages Through Policy Innovation
+- Address Inventory Shortages Through Policy Innovation
 Encourage supply growth through targeted zoning adjustments and public-private partnerships particularly for first-time buyers and the middle-market segment to prevent long-term affordability erosion.
-- 5.Leverage Real-Time Monitoring for Market Agility
+- Leverage Real-Time Monitoring for Market Agility
 Interactive dashboards like this project can help track key metrics such as transaction velocity, seasonal shifts, and luxury market trends equipping decision-makers with timely, actionable insights during both stable and uncertain periods.
 
 ![image](https://github.com/user-attachments/assets/3db1ac70-ed54-4402-87bb-78216708b1ab)
@@ -72,12 +72,12 @@ Several key components were developed to transform the real estate dataset into 
 
 **Key Metrics & KPIs**
 I used custom DAX measures to track performance across time and town, including:
-Total Sales
-Total Transactions
-% Year-over-Year (YoY) Sales
-% Month-over-Month (MoM) Transactions
-Average Sale Price
-Average Sales Ratio
+- Total Sales
+- Total Transactions
+- % Year-over-Year (YoY) Sales
+- % Month-over-Month (MoM) Transactions
+- Average Sale Price
+- Average Sales Ratio
 
 Each metric was designed to update dynamically based on filters, allowing users to explore trends by town, year, or property type, etc.
 
