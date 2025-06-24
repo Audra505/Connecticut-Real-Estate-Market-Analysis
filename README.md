@@ -99,7 +99,7 @@ Supporting Links Used for PowerPoint Presentation:
 - [Stamford Tops CT for Home Sales – CT Insider (2022)](https://www.ctinsider.com/business/article/Stamford-tops-CT-for-home-sales-after-3-seasons-17493338.php)  
 - [Connecticut Lawsuit Over SALT Deduction – CT.gov (2018)](https://portal.ct.gov/DRS/News---Press-Releases/2018/CT-Joins-Lawsuit-to-Protect-Taxpayers-on-SALT-Deduction-Cut)
 
-
+## 6. Conclusion
 This project aimed to bridge raw housing data with real-world insights, offering a clearer view into Connecticut’s evolving real estate landscape. By combining interactive visuals, historical context, and policy-aware recommendations, it equips analysts, planners, and decision-makers with the tools to navigate shifting housing dynamics.
 
 If you found this project insightful, have questions, or would like to collaborate, feel free to connect:
