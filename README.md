@@ -1,5 +1,12 @@
 ## Connecticut Real Estate Market Analysis (2012–2022)
-## Files Included 
+
+## 📂Included Files
+- **Executive Summary Presentation**  
+  [CT_Housing_Market_Summary-Github.pdf](./CT_Housing_Market_Summary-Github.pdf)
+
+- **Interactive Power BI Report Overview**  
+  [Power BI Report.md](./Power%20BI%20Report.md)
+  
 ## 1. Project Overview
 This project explores Connecticut’s real estate market from 2012 to 2022 through an interactive Power BI dashboard. With over 500,000 records, the report analyzes town-level sales trends, seasonal patterns, and pricing behavior to uncover how the market responded to economic booms, busts, and structural challenges.
 Built to support analysts, investors, and policymakers, the dashboard answers key questions:
