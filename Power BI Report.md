@@ -1,3 +1,4 @@
+## Overview
 This folder contains the interactive link for the Connecticut Real Estate Market analysis (2012–2022). It brings together dynamic KPIs, storytelling visuals, and field parameters to help users explore decade-long housing trends.
 
 ## Live Report (Web View)
@@ -5,7 +6,7 @@ This folder contains the interactive link for the Connecticut Real Estate Market
 
 ## Instructions
 - Click on the link to access web view
-- Use slicers to explore: Year, Month, Town, Property and Resedential Type dimensions
+- Use slicers to explore: Year, Month, Town, Property and Residential Type dimensions
 - Hover over the visuals to activate focus mode, see custom tooltips and reveal dynamic insights
 
 ## Navigate through the report to experience: 
