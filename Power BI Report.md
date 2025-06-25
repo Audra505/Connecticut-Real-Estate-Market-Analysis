@@ -2,7 +2,7 @@
 This folder contains the interactive link for the Connecticut Real Estate Market analysis (2012–2022). It brings together dynamic KPIs, storytelling visuals, and field parameters to help users explore decade-long housing trends.
 
 ## Live Report (Web View)
-[View Published Dashboard on Power BI](https://app.powerbi.com/view?r=eyJrIjoiYTRiYzNhNTYtNzBiNS00MzRlLWFlZDAtNmZlNDk5ZGM4YmE5IiwidCI6ImY0ZTI5ODFhLWVlMjctNDhkZi05NDM1LWM0NmJiZDRmMWU3ZCJ9)
+[View Published Dashboard on Power BI](https://app.powerbi.com/view?r=eyJrIjoiNDMyZjAwNjktN2NiMi00NDVmLWE1YzMtMmM0NTVlZDcwOGRkIiwidCI6ImY0ZTI5ODFhLWVlMjctNDhkZi05NDM1LWM0NmJiZDRmMWU3ZCJ9)
 
 ## Instructions
 - Click on the link to access web view
